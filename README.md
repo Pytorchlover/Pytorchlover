@@ -32,9 +32,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pytorchlover&show_icons=true&theme=tokyonight&ring_color=FF6F00&icon_color=FF6F00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pytorchlover&show_icons=true&theme=tokyonight&ring_color=FF6F00&icon_color=FF6F00&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pytorchlover&layout=compact&theme=tokyonight&title_color=FF6F00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pytorchlover&layout=compact&theme=tokyonight&title_color=FF6F00&v=2)
 
 ![CSDN Stats](https://stats.justsong.cn/api/csdn?id=m0_63007797&theme=tokyonight)
 
