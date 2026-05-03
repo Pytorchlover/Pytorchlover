@@ -32,11 +32,11 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=7&row=3)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=5&row=2)
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="65%">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -44,7 +44,7 @@
       </a>
     </td>
     <td width="35%">
-      <img src="https://stats.justsong.cn/api/csdn?id=m0_63007797&theme=tokyonight">
+      <img src="https://stats.justsong.cn/api/csdn?id=m0_63007797&theme=tokyonight" width="100%">
     </td>
   </tr>
 </table>
