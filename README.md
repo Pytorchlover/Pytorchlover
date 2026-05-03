@@ -32,25 +32,22 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=7&row=3)
 
 </div>
 
-<div align="center">
-
-![CSDN Stats](https://stats.justsong.cn/api/csdn?id=m0_63007797&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pytorchlover&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<table>
+  <tr>
+    <td width="65%">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pytorchlover&theme=tokyo-night&hide_border=true&area=true">
+      </a>
+    </td>
+    <td width="35%">
+      <img src="https://stats.justsong.cn/api/csdn?id=m0_63007797&theme=tokyonight">
+    </td>
+  </tr>
+</table>
 
 ---
 
