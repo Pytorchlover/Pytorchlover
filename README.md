@@ -32,7 +32,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pytorchlover&show_icons=true&theme=tokyonight)
+![Repositories](https://img.shields.io/github/last-commit/Pytorchlover?style=for-the-badge&labelColor=1c1917&color=FF6F00)
+![Repos](https://img.shields.io/github/repo-count/Pytorchlover?style=for-the-badge&labelColor=1c1917&color=FF6F00&logo=github)
+![Followers](https://img.shields.io/github/followers/Pytorchlover?style=for-the-badge&labelColor=1c1917&color=FF6F00&logo=github)
+
+</div>
+
+<div align="center">
 
 ![CSDN Stats](https://stats.justsong.cn/api/csdn?id=m0_63007797&theme=tokyonight)
 
