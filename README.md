@@ -24,7 +24,6 @@
 ![Claude](https://img.shields.io/badge/Claude-6B5B95?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0099FF?style=for-the-badge&logo=windsurf&logoColor=white)
 
 </div>
 
