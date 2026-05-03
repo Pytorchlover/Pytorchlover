@@ -34,6 +34,8 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=4&row=2&rank=-?)
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/Pytorchlover/svg?sort=cost&compact=1)](https://tokscale.ai/u/Pytorchlover)
+
 </div>
 
 <table width="100%">
