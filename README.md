@@ -81,6 +81,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pytorchlover)
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/m0_63007797)
+[![Baidu AI Studio](https://img.shields.io/badge/Baidu_AI_Studio-2932E1?style=for-the-badge&logo=baidu&logoColor=white)](https://aistudio.baidu.com/personalcenter/thirdview/2699972)
 
 </div>
 
