@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=5&row=2)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=5&row=2&rank=-?)
 
 </div>
 
