@@ -28,21 +28,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Pytorchlover&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6F00&icon_color=FF6F00&text_color=c9d1d9">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pytorchlover&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6F00&text_color=c9d1d9">
-    </td>
-  </tr>
-</table>
+## 📊 Stats
 
 <div align="center">
-<img src="https://stats.justsong.cn/api/csdn?id=m0_63007797">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pytorchlover&show_icons=true&theme=tokyonight&ring_color=FF6F00&icon_color=FF6F00)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pytorchlover&layout=compact&theme=tokyonight&title_color=FF6F00)
+
+![CSDN Stats](https://stats.justsong.cn/api/csdn?id=m0_63007797&theme=tokyonight)
+
 </div>
 
 ---
