@@ -67,10 +67,10 @@
 ## 🎯 Current Focus
 
 ```
-💹 Learning    Deep Learning & Model Optimization
-🔭 Exploring   PyTorch Internals & CUDA Programming
-💬 Ask me about  PyTorch, Deep Learning, Model Training
-⚡ Fun fact     I dream in tensors
+💹 Learning    Embodied Intelligence & Robot Manipulation
+🔭 Exploring   Vibe Coding & AI Agent Development
+💬 Ask me about  PyTorch, Deep Learning, Robot Control
+⚡ Fun fact     I dream in tensors and robot trajectories
 ```
 
 ---
