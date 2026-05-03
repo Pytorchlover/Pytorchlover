@@ -28,13 +28,11 @@
 
 ---
 
-## 📊 Stats
+## 🏆 Trophies & Stats
 
 <div align="center">
 
-![Repositories](https://img.shields.io/github/last-commit/Pytorchlover?style=for-the-badge&labelColor=1c1917&color=FF6F00)
-![Repos](https://img.shields.io/github/repo-count/Pytorchlover?style=for-the-badge&labelColor=1c1917&color=FF6F00&logo=github)
-![Followers](https://img.shields.io/github/followers/Pytorchlover?style=for-the-badge&labelColor=1c1917&color=FF6F00&logo=github)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=7)
 
 </div>
 
