@@ -33,7 +33,9 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pytorchlover&theme=tokyonight&column=4&row=2&rank=-?)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pytorchlover&theme=tokyonight" alt="Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pytorchlover&theme=tokyonight" alt="Repos per Language">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pytorchlover&theme=tokyonight" alt="Productive Time">
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/Pytorchlover/svg?sort=cost&compact=1)](https://tokscale.ai/u/Pytorchlover)
 
@@ -42,8 +44,8 @@
 <table width="100%">
   <tr>
     <td width="65%">
-      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pytorchlover&theme=tokyo-night&hide_border=true&area=true">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Pytorchlover&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" width="100%">
       </a>
     </td>
     <td width="35%">
